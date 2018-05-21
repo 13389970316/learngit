@@ -1,0 +1,10 @@
+git add 文件名
+git commit -m "注释"
+git diff 文件名
+git status 
+git reset --hard HEAD^
+git reset --hard commit_id
+git reflog
+暂存区、工作区、版本库、HEAD
+get checkout -- 文件名
+get reset HEAD 文件名
